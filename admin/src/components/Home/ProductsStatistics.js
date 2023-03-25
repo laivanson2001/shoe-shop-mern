@@ -13,6 +13,7 @@ const ProductsStatistics = () => {
 							objectFit: "contain",
 						}}
 						src='/images/product.png'
+						alt=''
 					/>
 				</article>
 			</div>
